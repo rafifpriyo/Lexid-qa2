@@ -32,7 +32,7 @@ Result of experimentation
 ### Milestone 1: Creating the Legal QA dataset
 1. Create list of paraphrased 17/18 question type from LexID KG by using chatGPT and manually create the question variations using paraphrased techniques and Indonesian Thesaurus. [List of paraphrased](https://github.com/rafifpriyo/Lexid-qa2/blob/master/Natural%20Language%20Questions.docx)
 2. Extract the target entity (official legal document) from the LexID KG itself and populate the templates in point 1. [Populate ipynb](https://github.com/rafifpriyo/Lexid-qa2/blob/master/Question%20Generation%20Tesaurus%20(1).ipynb)
-3. Dataset is ready
+3. [Dataset](https://drive.google.com/drive/folders/17BEUs3lU95h9oqm45GdT-_J5uvBkTHi7?usp=drive_link) is ready
 
 ### Milestone 2: Fine-tune the Bert models
 1. Search for Bert candidate, got three candidates, IndoBERT; MelayuBERT; MultilingualBERT
